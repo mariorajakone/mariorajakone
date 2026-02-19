@@ -5,7 +5,7 @@ Currently building Tableau projects to present findings in a clear and concise m
 
 - My skills include SQL, PostgreSQL and Excel
 
-- 🌱 I’m currently learning **Tableau**. You can view my Vizzes here https://public.tableau.com/app/profile/mario.rajakone/vizzes
+- 🌱 I’m currently learning **Tableau**. You can view my Vizzes [here](https://public.tableau.com/app/profile/mario.rajakone/vizzes).
 
 - 📫 How to reach me **mrajakone@hotmail.com**
 
