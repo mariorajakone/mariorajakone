@@ -1,19 +1,24 @@
 Hi 👋, I'm Mario
 
-A dedicated Data Analyst from London with 10+ years of experience at the Rugby Football Union working on reporting and analysis of player & club data, with a penchant for problem-solving issues through SQL. Committed to maintaining accurate records and ensuring data integrity as this is paramount to building trust with your stakeholders.
+A dedicated **Data Analyst** from London with 10+ years of experience at the Rugby Football Union working on reporting and analysis of player & club data, with a penchant for problem-solving issues through **SQL**. Committed to maintaining accurate records and ensuring data integrity as this is paramount to building trust with your stakeholders.
 Currently building Tableau projects to present findings in a clear and concise manner, with the intention of guiding the viewer into understanding what actions to take next.
 
-- My top skills include SQL, PostgreSQL and Excel
+### 💫 About Me:
+🔭 I’m currently using **Tableau** as my BI tool of choice. You can view my vizzes on Tableau Public [here](https://public.tableau.com/app/profile/mario.rajakone/vizzes)
+<!-- 🌱 I’m currently learning Python<br> -->
+💬 Ask me about Databases, Sports, Investing, Parenthood & Self Improvement
 
-- 🌱 I’m currently learning **Tableau**. You can view my Vizzes [here](https://public.tableau.com/app/profile/mario.rajakone/vizzes).
+⚡ Fun facts : I have played at both Wembley Stadium and Twickenham Stadium and have completed the 3 Peaks Challenge in 1 day
 
-- 📫 How to reach me **mrajakone@hotmail.com**
+📫 How to reach me **mrajakone@hotmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mario-rajakone" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mario-rajakone" height="30" width="40" /></a>
-<a href="https://twitter.com/mazza21x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mazza21x" height="30" width="40" /></a>
-</p>
+### 🌐 Connect with me:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/mario-rajakone/) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/https://x.com/mazza21x) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mrajakone@hotmail.com) 
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.tableau.com/en-gb/tableau-login-hub" target="_blank" rel="noreferrer"> <img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" alt="tableau" width="50" height="50"/> </a></p>
+### 💻 Tech Stack:
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+### 📊 Visualisation Tools:
+<a href="https://www.tableau.com/en-gb/tableau-login-hub" target="_blank" rel="noreferrer"> <img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" alt="tableau" width="50" height="50"/> </a>
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
