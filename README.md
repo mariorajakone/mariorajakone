@@ -5,10 +5,12 @@ Currently building Tableau projects to present findings in a clear and concise m
 
 ### 💫 About Me:
 🔭 I’m currently using **Tableau** as my BI tool of choice. You can view my vizzes on Tableau Public [here](https://public.tableau.com/app/profile/mario.rajakone/vizzes)
-<!-- 🌱 I’m currently learning Python<br> -->
-💬 Ask me about Databases, Sports, Investing, Parenthood & Self Improvement
 
-⚡ Fun facts : I have played at both Wembley Stadium and Twickenham Stadium and have completed the 3 Peaks Challenge in 1 day
+🌱 My plan is to next learn Python and dbt
+
+💬 Ask me about SQL Server Management Studio, DBeaver and Tableau
+
+⚡ Fun facts : I have played at both Wembley Stadium and Twickenham Stadium, and have completed the 3 Peaks Challenge in 1 day
 
 📫 How to reach me **mrajakone@hotmail.com**
 
