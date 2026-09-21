@@ -4,9 +4,9 @@ A dedicated **Data Analyst** from London with 10+ years of experience at the Rug
 Currently building Tableau projects to present findings in a clear and concise manner, with the intention of guiding the viewer into understanding what actions to take next.
 
 ### 💫 About Me:
-🔭 I’m currently using **Tableau** as my BI tool of choice. You can view my vizzes on Tableau Public [here](https://public.tableau.com/app/profile/mario.rajakone/vizzes)
+🔭 I’m currently using **Power BI** and **Tableau**as my BI tools of choice. You can view my vizzes on Tableau Public [here](https://public.tableau.com/app/profile/mario.rajakone/vizzes)
 
-🌱 My plan is to next learn Python and dbt
+🌱 Also learning and exploring Microsoft Fabric and Python.
 
 💬 Ask me about SQL Server Management Studio, DBeaver and Tableau
 
