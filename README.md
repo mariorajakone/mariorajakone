@@ -1,7 +1,7 @@
 Hi 👋, I'm Mario
 
 A dedicated **Data Analyst** from London with 10+ years of experience at the Rugby Football Union working on reporting and analysis of player & club data, with a penchant for problem-solving issues through **SQL**. Committed to maintaining accurate records and ensuring data integrity as this is paramount to building trust with your stakeholders.
-Currently building Tableau projects to present findings in a clear and concise manner, with the intention of guiding the viewer into understanding what actions to take next.
+Currently learning PowerBI and Fabric to present findings in a clear and concise manner, with the intention of guiding the viewer into understanding what actions to take next.
 
 ### 💫 About Me:
 🔭 I’m currently using **Power BI** and **Tableau**as my BI tools of choice. You can view my vizzes on Tableau Public [here](https://public.tableau.com/app/profile/mario.rajakone/vizzes)
