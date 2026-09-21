@@ -22,5 +22,6 @@ Currently building Tableau projects to present findings in a clear and concise m
 
 ### 📊 Visualisation Tools:
 <a href="https://www.tableau.com/en-gb/tableau-login-hub" target="_blank" rel="noreferrer"> <img src="https://www.selectdistinct.co.uk/wp-content/uploads/2023/03/Tableau-logo-removebg-preview.png" alt="tableau" width="50" height="50"/> </a>
+<a href="https://www.microsoft.com/en-gb/power-platform/products/power-bi" target="_blank" rel="noreferrer"> <img src="https://images.seeklogo.com/logo-png/40/1/power-bi-microsoft-logo-png_seeklogo-400711.png" alt="powerbi" width="50" height="50"/> </a>
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
